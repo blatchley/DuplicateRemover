@@ -1,5 +1,5 @@
 # DuplicateRemover
-Basic python tool for removing duplicate entries in very large excel dataset of blood test results.
+Basic python tool for efficiently removing "duplicate" entries resulting from multiple negative results in very large (>1 million entries) excel dataset of blood tests.
 
 # How to use
 
